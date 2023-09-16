@@ -1,0 +1,114 @@
+---
+object: card
+id: e50864d0-4940-4d7b-9562-0a2bedb33842
+oracle_id: 2572add6-c0b1-44bd-8713-1e94e3fe69d6
+multiverse_ids: []
+cardmarket_id: 245065
+name: Pestilence Demon
+lang: ja
+released_at: '2010-07-30'
+uri: https://api.scryfall.com/cards/e50864d0-4940-4d7b-9562-0a2bedb33842
+scryfall_uri: https://scryfall.com/card/proe/124%E2%98%85/ja/pestilence-demon?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/5/e50864d0-4940-4d7b-9562-0a2bedb33842.jpg?1662281074
+  normal: https://cards.scryfall.io/normal/front/e/5/e50864d0-4940-4d7b-9562-0a2bedb33842.jpg?1662281074
+  large: https://cards.scryfall.io/large/front/e/5/e50864d0-4940-4d7b-9562-0a2bedb33842.jpg?1662281074
+  png: https://cards.scryfall.io/png/front/e/5/e50864d0-4940-4d7b-9562-0a2bedb33842.png?1662281074
+  art_crop: https://cards.scryfall.io/art_crop/front/e/5/e50864d0-4940-4d7b-9562-0a2bedb33842.jpg?1662281074
+  border_crop: https://cards.scryfall.io/border_crop/front/e/5/e50864d0-4940-4d7b-9562-0a2bedb33842.jpg?1662281074
+mana_cost: "{5}{B}{B}{B}"
+cmc: 8.0
+type_line: Creature — Demon
+oracle_text: |-
+  Flying
+  {B}: Pestilence Demon deals 1 damage to each creature and each player.
+power: '7'
+toughness: '6'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 3af1f1ab-7b96-4535-912c-3a225b1783bc
+set: proe
+set_name: Rise of the Eldrazi Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/3af1f1ab-7b96-4535-912c-3a225b1783bc
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aproe&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/proe?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e50864d0-4940-4d7b-9562-0a2bedb33842/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2572add6-c0b1-44bd-8713-1e94e3fe69d6&unique=prints
+collector_number: 124★
+digital: false
+rarity: rare
+watermark: colorpie
+flavor_text: '"I have schemed too long to be supplanted by dead gods. If I cannot
+  have this world, no one can."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Justin Sweet
+artist_ids:
+- bb15780e-8f96-4823-b258-a7a9fd79b02c
+illustration_id: 499526df-88c1-4b22-9e95-8df8a8aeed64
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- buyabox
+edhrec_rank: 5823
+penny_rank: 8783
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: '8.45'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pestilence+Demon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pestilence+Demon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Pestilence+Demon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Pestilence+Demon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pestilence+Demon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pestilence+Demon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

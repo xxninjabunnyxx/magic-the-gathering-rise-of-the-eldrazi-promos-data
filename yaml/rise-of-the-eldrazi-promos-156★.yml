@@ -1,0 +1,118 @@
+---
+object: card
+id: 72c0427d-4666-407d-b5f6-03836dff52ae
+oracle_id: d369a02b-c282-454a-9f89-480f4f5d838c
+multiverse_ids: []
+tcgplayer_id: 38289
+cardmarket_id: 22931
+name: Lord of Shatterskull Pass
+lang: en
+released_at: '2010-04-23'
+uri: https://api.scryfall.com/cards/72c0427d-4666-407d-b5f6-03836dff52ae
+scryfall_uri: https://scryfall.com/card/proe/156%E2%98%85/lord-of-shatterskull-pass?utm_source=api
+layout: leveler
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/2/72c0427d-4666-407d-b5f6-03836dff52ae.jpg?1605371265
+  normal: https://cards.scryfall.io/normal/front/7/2/72c0427d-4666-407d-b5f6-03836dff52ae.jpg?1605371265
+  large: https://cards.scryfall.io/large/front/7/2/72c0427d-4666-407d-b5f6-03836dff52ae.jpg?1605371265
+  png: https://cards.scryfall.io/png/front/7/2/72c0427d-4666-407d-b5f6-03836dff52ae.png?1605371265
+  art_crop: https://cards.scryfall.io/art_crop/front/7/2/72c0427d-4666-407d-b5f6-03836dff52ae.jpg?1605371265
+  border_crop: https://cards.scryfall.io/border_crop/front/7/2/72c0427d-4666-407d-b5f6-03836dff52ae.jpg?1605371265
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Minotaur Shaman
+oracle_text: |-
+  Level up {1}{R} ({1}{R}: Put a level counter on this. Level up only as a sorcery.)
+  LEVEL 1-5
+  6/6
+  LEVEL 6+
+  6/6
+  Whenever Lord of Shatterskull Pass attacks, it deals 6 damage to each creature defending player controls.
+power: '3'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Level Up
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 3af1f1ab-7b96-4535-912c-3a225b1783bc
+set: proe
+set_name: Rise of the Eldrazi Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/3af1f1ab-7b96-4535-912c-3a225b1783bc
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aproe&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/proe?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/72c0427d-4666-407d-b5f6-03836dff52ae/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad369a02b-c282-454a-9f89-480f4f5d838c&unique=prints
+collector_number: 156★
+digital: false
+rarity: rare
+watermark: set
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Igor Kieryluk
+artist_ids:
+- 9c3e9d17-509f-485c-9360-46d897ce716b
+illustration_id: 88cfd706-630f-4981-8d91-0fb9d52611dd
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- release
+edhrec_rank: 11153
+penny_rank: 6335
+prices:
+  usd: 
+  usd_foil: '0.49'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.15'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lord+of+Shatterskull+Pass&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lord+of+Shatterskull+Pass&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lord+of+Shatterskull+Pass
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38289?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lord+of+Shatterskull+Pass&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lord+of+Shatterskull+Pass&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
